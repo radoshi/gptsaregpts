@@ -163,6 +163,7 @@ cython_debug/
 node_modules/
 
 .DS_Store
+*~
 
 # Ignore the database and the data.
 data/

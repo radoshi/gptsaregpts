@@ -7,7 +7,7 @@ import click
 @click.command()
 @click.option("--sql-folder", required=True, help="Folder containing .sql files")
 @click.option("--db-name", default="db.sqlite", help="Name of the SQLite database")
-def import_sql_files(sql_folder, db_name):
+def create_db(sql_folder, db_name):
     # Create or connect to SQLite database
     conn = sqlite3.connect(db_name)
     cursor = conn.cursor()
@@ -30,4 +30,4 @@ def import_sql_files(sql_folder, db_name):
 
 
 if __name__ == "__main__":
-    import_sql_files()
+    create_db()
