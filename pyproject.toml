@@ -17,6 +17,7 @@ pydantic = "^2.3.0"
 black = {extras = ["jupyter"], version = "^23.9.1"}
 tqdm = "^4.66.1"
 tenacity = "^8.2.3"
+pandas = "^2.1.0"
 
 
 [build-system]
