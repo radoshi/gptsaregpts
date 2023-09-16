@@ -18,6 +18,8 @@ black = {extras = ["jupyter"], version = "^23.9.1"}
 tqdm = "^4.66.1"
 tenacity = "^8.2.3"
 pandas = "^2.1.0"
+matplotlib = "^3.8.0"
+seaborn = "^0.12.2"
 
 
 [build-system]
