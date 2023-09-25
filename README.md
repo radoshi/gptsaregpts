@@ -5,8 +5,7 @@
 This is the code that backs the blog post at:
 https://rushabhdoshi.com/posts/2023-09-18-llm-leverage/
 
-This is based on the GPTs are GPTs paper. I was interested in building an intuition around the broad impacts of LLMs and used that as a starting point.
-The paper is available [here](https://arxiv.org/pdf/2103.10385.pdf).
+This is based on the [GPTs are GPTs paper](https://arxiv.org/pdf/2303.10130.pdf). I was interested in building an intuition around the broad impacts of LLMs and used that as a starting point.
 
 ## Installation
 
