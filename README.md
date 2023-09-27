@@ -29,7 +29,7 @@ Contributions are welcome, especially if you see bugs and issues. Please open a 
 
 ## Future directions
 
-[ ] Replicate with GPT-4 (costs quite a bit more)
-[ ] Look at `gpt-3.5-turbo-instruct` with log-probs, to see if it improves classification
-[ ] Classify tasks instead of DWAs
-[ ] Classify occupations instead of DWAs
+- [ ] Replicate with GPT-4 (costs quite a bit more)
+- [ ] Look at `gpt-3.5-turbo-instruct` with log-probs, to see if it improves classification
+- [ ] Classify tasks instead of DWAs
+- [ ] Classify occupations instead of DWAs
